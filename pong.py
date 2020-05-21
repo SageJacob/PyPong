@@ -1,6 +1,6 @@
 import pygame, random
 from pygame.locals import *
-
+import pyautogui
 class Player:
     def __init__(self):
         self.y = 90
